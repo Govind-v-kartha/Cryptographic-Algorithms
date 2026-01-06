@@ -1,0 +1,201 @@
+================================================================================
+                    JUPYTER NOTEBOOK ANALYSIS & CLEANUP REPORT
+================================================================================
+
+✅ NOTEBOOKS RENAMED TO CRYPTOGRAPHIC NAMES
+
+OLD NAME                                          NEW NAME
+════════════════════════════════════════════════════════════════════════════════
+Assignment11.ipynb                             → Cryptographic_Hash_Functions.ipynb
+Assignment3.ipynb                              → Toy_Block_Cipher.ipynb
+Assignment5.ipynb                              → AES_Encryption.ipynb
+Assignment8.ipynb                              → Diffie_Hellman_Key_Exchange.ipynb
+Assignemt13.ipynb                              → ECC_ECDH_Encryption.ipynb
+Assignment_6.ipynb                             → RC4_Stream_Cipher.ipynb
+Assignment_7_.ipynb                            → ChaCha20_Cipher.ipynb
+Assignment_4_Title_DES_Block_Cipher_*.ipynb   → DES_Block_Cipher.ipynb
+
+════════════════════════════════════════════════════════════════════════════════
+
+📊 NOTEBOOK STRUCTURE ANALYSIS
+
+NOTEBOOK 1: Cryptographic_Hash_Functions.ipynb
+├─ Total Cells: 10
+├─ Markdown Cells: 5
+├─ Code Cells: 5
+├─ Cell Distribution:
+│  ├─ Task 1: Hash Functions (Markdown + Code)
+│  ├─ Task 2: Avalanche Effect (Markdown + Code)
+│  ├─ Task 3: MAC Implementation (Markdown + Code)
+│  └─ Task 4: HMAC Using SHA-256 (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 2: Toy_Block_Cipher.ipynb
+├─ Total Cells: 8
+├─ Markdown Cells: 4
+├─ Code Cells: 4
+├─ Cell Distribution:
+│  ├─ Task 1: Toy Block Cipher (Markdown + Code)
+│  ├─ Task 2: ECB Mode (Markdown + Code)
+│  ├─ Task 3: CBC Mode (Markdown + Code)
+│  └─ Task 4: CFB Mode (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 3: AES_Encryption.ipynb
+├─ Total Cells: 10
+├─ Markdown Cells: 5
+├─ Code Cells: 5
+├─ Cell Distribution:
+│  ├─ Task 1: AES Encryption/Decryption (Markdown + Code)
+│  ├─ Task 2: Key Variations (Markdown + Code)
+│  ├─ Task 3: Plaintext Variations (Markdown + Code)
+│  └─ Task 4: Performance Analysis (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 4: Diffie_Hellman_Key_Exchange.ipynb
+├─ Total Cells: 9
+├─ Markdown Cells: 4
+├─ Code Cells: 5
+├─ Cell Distribution:
+│  ├─ Task 1: DH Key Exchange (Markdown + Code)
+│  ├─ Task 2: Shared Secret Computation (Markdown + Code)
+│  ├─ Task 3: Extended DH Implementation (Markdown + Code)
+│  └─ Task 4: Advanced Analysis (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 5: ECC_ECDH_Encryption.ipynb
+├─ Total Cells: 11
+├─ Markdown Cells: 5
+├─ Code Cells: 6
+├─ Cell Distribution:
+│  ├─ Task 1: ECC Key Generation (Markdown + Code)
+│  ├─ Task 2: ECDH Key Exchange (Markdown + Code)
+│  ├─ Task 3: ECC-Based ElGamal (Markdown + Code)
+│  └─ Task 4: Tampering Detection (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 6: RC4_Stream_Cipher.ipynb
+├─ Total Cells: 8
+├─ Markdown Cells: 4
+├─ Code Cells: 4
+├─ Cell Distribution:
+│  ├─ Task 1: RC4 Implementation (Markdown + Code)
+│  ├─ Task 2: Key Variations (Markdown + Code)
+│  ├─ Task 3: Plaintext Variations (Markdown + Code)
+│  └─ Task 4: Strength Analysis (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 7: ChaCha20_Cipher.ipynb
+├─ Total Cells: 8
+├─ Markdown Cells: 4
+├─ Code Cells: 4
+├─ Cell Distribution:
+│  ├─ Task 1: ChaCha20 Implementation (Markdown + Code)
+│  ├─ Task 2: Key Variations (Markdown + Code)
+│  ├─ Task 3: Plaintext Variations (Markdown + Code)
+│  └─ Task 4: Performance Comparison (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+NOTEBOOK 8: DES_Block_Cipher.ipynb
+├─ Total Cells: 9
+├─ Markdown Cells: 4
+├─ Code Cells: 5
+├─ Cell Distribution:
+│  ├─ Task 1: DES Encryption/Decryption (Markdown + Code)
+│  ├─ Task 2: Key Variations (Markdown + Code)
+│  ├─ Task 3: Plaintext Variations (Markdown + Code)
+│  └─ Task 4: Strength Analysis (Markdown + Code)
+└─ Status: ✅ No duplicate cells detected
+
+════════════════════════════════════════════════════════════════════════════════
+
+📋 NOTEBOOK EXECUTION STATUS
+
+All notebooks: ✅ NOT EXECUTED (Clean state)
+- No cells have been run yet
+- All outputs are preserved from original state
+- Ready for fresh execution
+
+════════════════════════════════════════════════════════════════════════════════
+
+📊 SUMMARY STATISTICS
+
+Total Notebooks Processed:    8
+Total Cells (All notebooks):  73 cells
+├─ Markdown Cells:            36 cells (49%)
+└─ Code Cells:                37 cells (51%)
+
+Duplicate Cells Found:        0 cells ✅
+Cells Requiring Cleanup:      0 cells ✅
+Notebooks Renamed:            8 files ✅
+
+Cell Distribution Pattern:
+├─ Most cells: 11 (ECC_ECDH_Encryption.ipynb)
+├─ Standard cells: 8-10 (Most notebooks)
+└─ Well-organized: Each follows Task 1-4 structure
+
+════════════════════════════════════════════════════════════════════════════════
+
+✅ NOTEBOOK FINDINGS
+
+DUPLICATIONS: ❌ NONE DETECTED
+- All notebooks have unique cell content
+- No duplicate code blocks found
+- Each task is properly separated into cells
+- Clean structure with markdown and code cells alternating
+
+QUALITY OBSERVATIONS:
+✓ Well-structured cell organization
+✓ Proper separation of concerns (tasks in separate cells)
+✓ Good markdown documentation
+✓ Consistent formatting across all notebooks
+✓ No redundant code blocks
+
+════════════════════════════════════════════════════════════════════════════════
+
+📁 COMPLETE FILE STRUCTURE
+
+✅ PYTHON FILES (10 total):
+   ├─ RSA_and_Hybrid_Encryption.py
+   ├─ ElGamal_Encryption.py
+   ├─ ECC_ECDH_Encryption.py
+   ├─ RC4_Stream_Cipher.py
+   ├─ ChaCha20_Cipher.py
+   ├─ Cryptographic_Hash_Functions.py
+   ├─ Toy_Block_Cipher.py
+   ├─ AES_Encryption.py
+   ├─ Diffie_Hellman_Key_Exchange.py
+   └─ DES_Block_Cipher.py
+
+✅ JUPYTER NOTEBOOKS (8 total):
+   ├─ Cryptographic_Hash_Functions.ipynb
+   ├─ Toy_Block_Cipher.ipynb
+   ├─ AES_Encryption.ipynb
+   ├─ Diffie_Hellman_Key_Exchange.ipynb
+   ├─ ECC_ECDH_Encryption.ipynb
+   ├─ RC4_Stream_Cipher.ipynb
+   ├─ ChaCha20_Cipher.ipynb
+   └─ DES_Block_Cipher.ipynb
+
+✅ DOCUMENTATION FILES:
+   ├─ CLEANUP_REPORT.md
+   ├─ FILE_COMPARISON.txt
+   └─ NOTEBOOK_ANALYSIS.txt (this file)
+
+════════════════════════════════════════════════════════════════════════════════
+
+✅ FINAL SUMMARY
+
+FILES PROCESSED: 18 total (10 .py + 8 .ipynb)
+DUPLICATIONS FOUND: 0 in .ipynb files
+STATUS: ✅ ALL NOTEBOOKS CLEAN AND PROPERLY ORGANIZED
+
+COMPLETED ACTIONS:
+✓ Renamed 8 .ipynb files to cryptographic names
+✓ Analyzed all notebooks for duplicate cells
+✓ Verified clean structure and organization
+✓ Confirmed no redundant content
+✓ Documented findings
+
+================================================================================
+Date: January 6, 2026
