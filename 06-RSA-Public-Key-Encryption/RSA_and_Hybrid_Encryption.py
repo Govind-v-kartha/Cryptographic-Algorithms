@@ -9,7 +9,7 @@ Original file is located at
 1. RSA Key Generation (PEM format)
 """
 
-!pip install pycryptodome
+# Install: pip install pycryptodome
 from Crypto.PublicKey import RSA
 import os
 
